@@ -6,3 +6,11 @@ Collaboration steps *repo means the project directory
 -add the repo to working tree (git add)
 -stage the repo by commiting it (git commit)
 -push to remote (git push)
+
+hi, my name is ore.
+git hub essentials include;
+repositories
+branches
+commits
+pull requests
+
